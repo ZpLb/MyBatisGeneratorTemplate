@@ -1,0 +1,2 @@
+# MyBatisGeneratorTemplate
+Mybatis Generator Template
